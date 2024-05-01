@@ -1,0 +1,15 @@
+.topic-list-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .topic-list {
+    width: 70%;
+  }
+  
+  /* Pour centrer chaque élément de la liste individuellement */
+  .topic-list-item {
+    margin-bottom: 20px;
+  }
+  
